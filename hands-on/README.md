@@ -1,5 +1,5 @@
 ---
-description: 핸----즈온
+description: 핸즈온
 ---
 
 # Hands On
